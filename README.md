@@ -32,6 +32,7 @@ A coluna `Comprou` indica a resposta à última campanha (1 = comprou, 0 = não 
 
 - Quem aceitou alguma campanha gasta **R$ 65,74 por compra**, contra **R$ 41,58** de quem nunca aceitou: **58% a mais**.
 - **16%** dos clientes responderam à última campanha.
+-    ![Visão das Campanhas](prints/visao-campanhas.jpg) ![Pergunta 1](prints/pergunta-1.jpg)
 
 ## Próximos passos
 
